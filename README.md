@@ -6,8 +6,6 @@ A battery-powered data logger built on an Arduino Nano Every. It reads barometri
 
 This project started as a high-altitude balloon payload. I scaled it down to a stationary outdoor station so I could finish and test it properly.
 
-> Replace the image above with a photo of your build (put it in a `docs/` folder).
-
 ## Status
 
 | Area | State |
@@ -42,7 +40,6 @@ This project started as a high-altitude balloon payload. I scaled it down to a s
 | I2C (MS5611 and DS3231) | A4 (SDA), A5 (SCL) |
 | SPI (SD card) | D11 (MOSI), D12 (MISO), D13 (SCK) |
 
-> Check these against your actual wiring before you publish. Add a wiring diagram or photo in `docs/`.
 
 ## Software
 
