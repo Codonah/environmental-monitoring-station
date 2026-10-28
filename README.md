@@ -2,7 +2,7 @@
 
 A battery-powered data logger built on an Arduino Nano Every. It reads barometric pressure, air temperature, and probe temperature, stamps each reading with a real-time clock, and writes the results to a CSV file on a MicroSD card every 2 seconds. It runs standalone, with no computer attached.
 
-![Build photo](docs/build.jpg)
+![Breadboard prototype: Arduino Nano Every, MS5611, DS3231 RTC, MicroSD, and DS18B20 probe](docs/proj.jpg)
 
 This project started as a high-altitude balloon payload. I scaled it down to a stationary outdoor station so I could finish and test it properly.
 
